@@ -1,47 +1,52 @@
-const logotext = "JOHN";
+const logotext = "IntelNyx";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "IntelNyx",
+    description: "Mastering the Unknowns with IntelNyx",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "We are IntelNyx",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Actionable threat intelligence",
+        second: "Global leader in Cybersecurity threat intelligence",
+        third: "Foster a more secure digital ecosystem",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Mastering the Unknowns with IntelNyx",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
-};
+    title: "Mission Statement",
+    aboutme: "To empower organizations with actionable threat intelligence, enabling proactive defense strategies, reducing risk, and safeguarding digital assets from evolving cyber threats. To be the global leader in cybersecurity threat intelligence, transforming the way businesses understand, anticipate, and combat cyber risks. Our goal is to foster a more secure digital ecosystem, enabling organizations to operate with confidence and resilience ",
+}; 
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Launch Cybersecurity News Website",
+        where: " Fully functional cybersecurity news website with initial content and basic SEO optimization.",
+        date: "Q1 JAN - MAR",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Create Cybersecurity Podcast.",
+        where: "First 5-6 podcast episodes published and promoted, with ongoing production",
+        date: "Q2 APR - JUN",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Geopolitical-Cyber Threat Capability Integration",
+        where: "Geopolitical cyber threat tracking capability integrated into the website with real-time updates and analysis",
+        date: "Q3 JUL - SEPT",
+    },
+    {
+        jobtitle: "Implement Threat Intelligence Feeds",
+        where: "Fully functional threat intelligence feeds, integrated with the website, and available to users",
+        date: "Q4 OCT - DEC",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Threat Intel",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Python",
         value: 85,
     },
     {
@@ -59,20 +64,20 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Threat Intelligence Feeds",
+        description: "Real-time, actionable threat intelligence on emerging cyber threats, vulnerabilities, and attack tactics.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Geopolitical-Cyber Threat Insights",
+        description: "In-depth analysis of the intersection between geopolitical events and cyber threats, including region-specific risks.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Managed Threat Intelligence Platform (TIP)",
+        description: "A comprehensive platform that centralizes threat intelligence, integrates with existing security tools, and automates threat response.",
     },
 ];
 
-const dataportfolio = [{
+const dataservices = [{
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
@@ -155,7 +160,7 @@ const socialprofils = {
 export {
     meta,
     dataabout,
-    dataportfolio,
+    dataservices,
     worktimeline,
     skills,
     services,
