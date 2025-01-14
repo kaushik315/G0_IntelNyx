@@ -1,17 +1,17 @@
-const logotext = "IntelNyx";
+const logotext = "NyxIntel";
 const meta = {
-    title: "IntelNyx",
-    description: "Mastering the Unknowns with IntelNyx",
+    title: "NyxIntel",
+    description: "Mastering the Unknowns with NyxIntel",
 };
 
 const introdata = {
-    title: "We are IntelNyx",
+    title: "We are NyxIntel",
     animated: {
         first: "Actionable threat intelligence",
         second: "Global leader in Cybersecurity threat intelligence",
         third: "Foster a more secure digital ecosystem",
     },
-    description: "Mastering the Unknowns with IntelNyx",
+    description: "We offer a robust suite of Threat Intelligence solutions designed to protect organizations from today’s complex and evolving cyber threats. Through real-time intelligence feeds, dark web monitoring, attack surface management, and third-party risk assessments, we enable proactive detection and mitigation of emerging risks. Our services monitor illicit online communities, digital assets, and vendor ecosystems to uncover stolen data, vulnerabilities, and potential attack vectors before they can be exploited. Stay Ahead of Threats, and Secure What Matters Most.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
