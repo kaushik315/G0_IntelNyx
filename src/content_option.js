@@ -1,11 +1,11 @@
-const logotext = "NyxIntel";
+const logotext = "NyxxIntel";
 const meta = {
-    title: "NyxIntel",
-    description: "Mastering the Unknowns with NyxIntel",
+    title: "NyxxIntel",
+    description: "Mastering the Unknowns with NyxxIntel",
 };
 
 const introdata = {
-    title: "We are NyxIntel",
+    title: "We are NyxxIntel",
     animated: {
         first: "Actionable threat intelligence",
         second: "Global leader in Cybersecurity threat intelligence",
