@@ -7,6 +7,48 @@ section {
     transition: all .5s ease-in;
 }
 
+.more_services_btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+  }
+  
+/* Ensure the button has proper spacing */
+.more-services-container {
+    margin-bottom: 50px; /* Adds extra space below the button */
+    padding-bottom: 20px; /* Ensures it doesn't get cut off */
+  }
+  
+  /* Style fix for the More Services button */
+  .more_services_btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 24px; /* Increase padding for better appearance */
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+    display: inline-block; /* Ensure proper positioning */
+  }
+  
+  .more_services_btn:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  
+  .services-section {
+    position: relative;
+    margin-top: 40px; /* Adjust based on the height of your menu & buttons */
+    padding-top: 20px;
+  }
+  
 .who_am_I {
     font-family: Cinzel;
 }
